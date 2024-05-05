@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @roqeebismail
 - 👀 I’m interested in Javascript programming. 
 - 🌱 I’m currently learning Full-Stack Web Dev
-- 💞️ I’m looking to collaborate on Web and Application projects, Software Dev.
-- 📫 How to reach me roqeebismaail@gmail.com
+- 💞️ I’m looking to collaborate on Web, Application,and Software Dev project.
+- 📫 How to reach me via: roqeebismaail@gmail.com or
+hello@roqeeb.com (coming soon...)
 - 😄 Pronouns: Alfa
 - ⚡ Fun fact: Sunnah is fun 😊
 

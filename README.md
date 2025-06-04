@@ -24,6 +24,17 @@ My name is Roqeeb Ismail. I am a software engineer with 3+ years of experience
 <!--
 **💼 Languages Previously Used:** Angular ✅ | Java ✅ | C# && .Net ✅
 -->
+Currently Learning: ✔️ Node - MongoDB
+
+Thanks for checking out my profile, it is a pleasure to meet you 🤝.
+
+Do follow 👍 if you'd like to connect with me 💪
+
+LinkedIn
+
+✅ GitLab
+
+✅ Blogs
 ---
 
 > *“Write code like foreplay — slow, clean, and full of intent. Debug with passion, deploy with desire, and always leave them wanting console.log('more')”*

@@ -2,7 +2,7 @@
 
 My name is Roqeeb Ismail. I am a software engineer with 3+ years of experience
 
-## 📄 Craft 
+# 📄 Technology 
 
 **Open Source Contributions:**  
 

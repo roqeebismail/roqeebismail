@@ -28,13 +28,6 @@ Currently Learning: ✔️ Node - MongoDB
 
 Thanks for checking out my profile, it is a pleasure to meet you 🤝.
 
-Do follow 👍 if you'd like to connect with me 💪
-
-LinkedIn
-
-✅ GitLab
-
-✅ Blogs
 ---
 
 > *“Write code like foreplay — slow, clean, and full of intent. Debug with passion, deploy with desire, and always leave them wanting console.log('more')”*

@@ -35,6 +35,7 @@ ChatGPT • GitHub Copilot • Cursor
 ✔️ Node.js • MongoDB 
 
 **💼 Languages Previously Used:** Python entry-level 
+
 ---
 
 

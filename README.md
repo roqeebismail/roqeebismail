@@ -17,10 +17,10 @@ I'm a frontend engineer focused on crafting intuitive and user-centered interfac
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
 
 **State Management:**  
-Redux
+Redux 
 
 **UI Frameworks & Styling:**  
-TailwindCSS • SCSS • ShadCN-UI
+TailwindCSS • SCSS • ShadCN-UI • MUI
 
 **Version Control:**  
 Git • GitHub • GitLab
@@ -29,7 +29,7 @@ Git • GitHub • GitLab
 Trello • Jira • Asana • Azure DevOps • MS Teams • Wrike • Basecamp
 
 **AI Tools:**  
-ChatGPT • GitHub Copilot • Cursor
+ChatGPT • GitHub Copilot • Cursor • GeekSeek • 
 
 **Currently Learning:**  
 ✔️ Node.js • MongoDB 

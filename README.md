@@ -14,7 +14,7 @@ I'm a frontend engineer focused on crafting intuitive and user-centered interfac
 #### Tech Stack 
 
 **Frameworks & Languages:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 
 **State Management:**  
 Redux 
@@ -50,6 +50,8 @@ I've had the pleasure of contributing to
 #### 💬 Let's Connect
 
 If you're working on a meaningful project, want to collaborate, or just geek out about frontend dev, feel free to reach out!
+
+[@LinkedIn](https://linkedln.com/in/roqeebismail)
 
 ---
 

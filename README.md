@@ -12,8 +12,7 @@ I'm a fullstack engineer focused on crafting intuitive and user-centered interfa
 ---
 
 
-<details>
-  <summary><strong>💻 Tech Stack</strong></summary>
+#### 💻 Tech Stack
 
 **Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -70,7 +69,7 @@ I'm a fullstack engineer focused on crafting intuitive and user-centered interfa
 ![Cursor](https://img.shields.io/badge/Cursor-161B22?style=flat)
 ![GeekSeek](https://img.shields.io/badge/GeekSeek-000000?style=flat)
 
-</details>
+
 
 ---
 

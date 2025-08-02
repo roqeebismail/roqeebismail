@@ -93,7 +93,7 @@ I've had the pleasure of contributing to
 If you're working on a meaningful project, want to collaborate, or just geek out about frontend dev, feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roqeebismail)
-[![Email Badge](https://img.shields.io/badge/Email-rq.ismai%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:roqeebismail@live.com)
+[![Email Badge](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:roqeebismaail@gmail.com)
 
 
 ---

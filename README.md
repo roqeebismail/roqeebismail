@@ -80,13 +80,24 @@ I'm a fullstack engineer focused on crafting intuitive and user-centered interfa
 
 ---
 
+![Roqeebismail`s GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Roqeebismail&theme=dark)
+
+
 #### 🌱 Open Source Contributions
 
 I've had the pleasure of contributing to
 
-[@Refine](https://github.com/refinedev/refine)  •  [@Tremor](https://github.com/tremorlabs/tremor)   •  [@ShadCN-UI](https://github.com/shadcn-ui/ui)   •  [@TailwindCSS](https://github.com/tailwindlabs/tailwindcss)  •  [@React-Hook-Form](https://github.com/react-hook-form/react-hook-form) • [@Next.js](https://github.com/vercel/next.js)   •  [@Astro](https://github.com/withastro/astro)  •  [@Open-UI](https://github.com/WICG/open-ui)  
+- [Public APIs](https://github.com/public-apis/public-apis) 
 
 
+#### 🌱 Real-World Contributions
+
+Alongside open source, I've contributed to private and freelance projects:
+
+- 🏫 **Student Portal UI** – Improved the layout and responsiveness of a training center's internal web app using Tailwind CSS.
+- 🧩 **Freelance Client Site** – Helped debug and refactor components in a React + Firebase project for a small business (private repo).
+
+---
 
 #### 💬 Let's Connect
 

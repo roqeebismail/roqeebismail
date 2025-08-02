@@ -1,9 +1,11 @@
 
-<p align="center">
-  <img src="https://your-image-url.com/your-banner.png" alt="Banner" />
-</p>
+![Repository Banner](./assets/banner.png)
 
-### 👋 Hi, I'm Roqeeb Ismail.
+[![](https://komarev.com/ghpvc/?username=roqeebismail&color=blue&label=Profile%20Views)](https://github.com/roqeebismail/roqeebismail)
+[![](https://img.shields.io/github/followers/roqeebismail?label=GitHub%20Followers)](https://github.com/roqeebismail)
+
+---
+### 👋 Hi, I'm [Roqeeb Ismail](https://linkedln.com/in/roqeebismail).
 
 #### Software Engineer | MERN Specialist | OSS Contributor  
 Building performant, accessible, and scalable web applications for over 3 years.
@@ -91,6 +93,8 @@ I've had the pleasure of contributing to
 If you're working on a meaningful project, want to collaborate, or just geek out about frontend dev, feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roqeebismail)
+[![Email Badge](https://img.shields.io/badge/Email-rq.ismai%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:roqeebismail@live.com)
+
 
 ---
 

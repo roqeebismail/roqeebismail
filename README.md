@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://your-image-url.com/your-banner.png" alt="Banner" />
+</p>
+
 ### 👋 Hi, I'm Roqeeb Ismail.
 
 #### Software Engineer | MERN Specialist | OSS Contributor  
